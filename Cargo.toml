@@ -1,4 +1,6 @@
 [package]
+author = "ehsan.ehsanagain@gmail.com"
+description = "a simple cli tool for extracting html tags based on a css selector from html text"
 edition = "2021"
 name = "cli-selector"
 version = "0.1.0"
