@@ -4,7 +4,7 @@ description = "a simple cli tool for extracting html tags based on a css selecto
 edition = "2021"
 license = "GPL-3.0"
 name = "cli-selector"
-version = "0.1.0"
+version = "0.2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
